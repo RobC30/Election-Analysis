@@ -61,6 +61,6 @@ If we are to increase our analysis reach towards different states, we simply nee
 7. Write a for loop with necessary calculations to determine a state's total votes & percentage vs. all states
 8. Determine largest State turnout.
 
-See below preview of what new lines of code might look like to create a __State Analyis__:
+See below preview of what new lines of code might look like to create a __State Analysis__:
 
 ![image](https://raw.githubusercontent.com/RobC30/Election-Analysis/main/Resources/state.PNG)
